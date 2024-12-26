@@ -1,0 +1,18 @@
+.para {
+    background-color: rgba(179, 0, 110, 0.418);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-para,.second-div {
+    font-size: 24px;
+}
+
+.first-div {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-div {
+    background-color: rgb(104, 255, 142);
+    font-weight: bold;
+}
