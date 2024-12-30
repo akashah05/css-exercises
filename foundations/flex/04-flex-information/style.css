@@ -12,6 +12,44 @@ img {
   font-weight: 900;
 }
 
+
+/* My solution */
+.main-container, .content-container, .box {
+  display: flex;
+}
+
+.main-container {
+  flex-direction: column;
+  text-align: center;
+  gap: 2rem;
+}
+
+.content-container {
+  gap: 3.25rem;
+}
+
+.box {
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
